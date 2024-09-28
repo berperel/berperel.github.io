@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://berperel.github.io/sitemap.berperel.gz
+Sitemap: https://berperel.github.io/app/sitemap.berperel.gz
+Sitemap: https://berperel.github.io/assets/sitemap.berperel.gz
+Sitemap: https://berperel.github.io/css/sitemap.berperel.gz
+Sitemap: https://berperel.github.io/data/sitemap.berperel.gz
+Sitemap: https://berperel.github.io/includes/sitemap.berperel.gz
+Sitemap: https://berperel.github.io/item/sitemap.berperel.gz
+Sitemap: https://berperel.github.io/src/sitemap.berperel.gz
